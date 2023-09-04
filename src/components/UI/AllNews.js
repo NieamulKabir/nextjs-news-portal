@@ -1,5 +1,5 @@
 import { Card, Col, Row } from "antd";
-import Image from "next/image";
+// import Image from "next/image";
 import {
   ArrowRightOutlined,
   CalendarOutlined,
@@ -7,6 +7,7 @@ import {
   ProfileOutlined,
 } from "@ant-design/icons";
 import Link from "next/link";
+import Image from "next/image";
 
 
 const AllNews = ({ allNews }) => {
@@ -108,3 +109,4 @@ const AllNews = ({ allNews }) => {
   
 
 export default AllNews;
+

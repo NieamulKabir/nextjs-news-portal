@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "json-server":"json-server --watch db.json --port 5000",
+    "json-server": "json-server --watch db.json --port 5000",
     "lint": "next lint"
   },
   "dependencies": {
